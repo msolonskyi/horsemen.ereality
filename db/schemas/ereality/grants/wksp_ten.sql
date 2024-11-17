@@ -1,0 +1,1 @@
+grant select on vw_contrabandist to wksp_ten;
